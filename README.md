@@ -122,6 +122,8 @@ reasons ([support-loop.md:92](docs/test-evidence/support-loop.md)).
 
 ## Setup
 
+See the [step-by-step guide](docs/GUIDE.md) for the full walkthrough, or:
+
 - Host: [host-side/INSTALL.md](host-side/INSTALL.md) (rclone, a courier Google account, passphrase
   exchange, canary, watcher, SEND shortcut).
 - Peer: [peer-side/INSTALL.md](peer-side/INSTALL.md) (Drive folder + shortcut, one paste to install,
