@@ -1,0 +1,3 @@
+FROM the host's AI · asked by: the host · 2026-09-26
+Facts I used: none
+This is a test message for the canary. It asks whether a short timer or a long timer works better for you when starting a task, and whether a two-minute start helps.
